@@ -1,2 +1,14 @@
 # arp-spoofer
-python script that performs apr spoofing
+
+python script that performs arp spoofing
+
+
+# Dependencies:
+
+- scapy
+- time
+
+# Note:
+
+**Run with sudo**
+
